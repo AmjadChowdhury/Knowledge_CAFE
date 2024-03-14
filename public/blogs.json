@@ -1,0 +1,53 @@
+[
+    {
+      "id": "12345",
+      "cover": "https://i.ibb.co/GpbmPhn/7381717-3562072.jpg",
+      "title": "The Mystery of the Sapphire Jewel",
+      "author": "Eleanor Blackwood",
+      "author_img": "https://i.ibb.co/R3ZRm3K/amjadprof.jpg",
+      "posted_date": "2023-07-12",
+      "reading_time": 10,
+      "hashtags": ["mystery", "adventure", "fiction"]
+    },
+    {
+      "id": "67890",
+      "cover": "https://i.ibb.co/KsMtGwC/25272479-7083612.jpg",
+      "title": "Secrets of the Enchanted Forest",
+      "author": "Maxwell Silverwood",
+      "author_img": "https://i.ibb.co/R3ZRm3K/amjadprof.jpg",
+      "posted_date": "2023-09-28",
+      "reading_time": 5,
+      "hashtags": ["fantasy", "magic", "youngadult"]
+    },
+    {
+      "id": "24680",
+      "cover": "https://i.ibb.co/0mSrpH9/9197976-4116752.jpg",
+      "title": "The Galactic Chronicles: Rise of the Cosmos",
+      "author": "Aurora Starlight",
+      "author_img": "https://example.com/img3.jpg",
+      "posted_date": "2023-11-15",
+      "reading_time": 7,
+      "hashtags": ["sciencefiction", "space", "epic"]
+    },
+    {
+      "id": "13579",
+      "cover": "https://i.ibb.co/1m9gTW3/10605404-4502475.jpg",
+      "title": "The Haunted Manor",
+      "author": "Cassandra Nightshade",
+      "author_img": "https://example.com/img4.jpg",
+      "posted_date": "2023-10-31",
+      "reading_time": 8,
+      "hashtags": ["horror", "ghosts", "haunted"]
+    },
+    {
+      "id": "98765",
+      "cover": "https://i.ibb.co/kqg434v/5683963-2961055.jpg",
+      "title": "The Dragon's Lair",
+      "author": "Drake Fireheart",
+      "author_img": "https://example.com/img5.jpg",
+      "posted_date": "2023-12-25",
+      "reading_time": 5,
+      "hashtags": ["adventure", "dragons", "quest"]
+    }
+  ]
+  
